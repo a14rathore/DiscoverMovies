@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DiscoverMovies/static/css/main.f21b6849.chunk.css",
+    "main.js": "/DiscoverMovies/static/js/main.6f5ce788.chunk.js",
+    "main.js.map": "/DiscoverMovies/static/js/main.6f5ce788.chunk.js.map",
+    "runtime-main.js": "/DiscoverMovies/static/js/runtime-main.15afa6db.js",
+    "runtime-main.js.map": "/DiscoverMovies/static/js/runtime-main.15afa6db.js.map",
+    "static/js/2.f8a834b4.chunk.js": "/DiscoverMovies/static/js/2.f8a834b4.chunk.js",
+    "static/js/2.f8a834b4.chunk.js.map": "/DiscoverMovies/static/js/2.f8a834b4.chunk.js.map",
+    "static/js/3.e3c0584e.chunk.js": "/DiscoverMovies/static/js/3.e3c0584e.chunk.js",
+    "static/js/3.e3c0584e.chunk.js.map": "/DiscoverMovies/static/js/3.e3c0584e.chunk.js.map",
+    "index.html": "/DiscoverMovies/index.html",
+    "static/css/main.f21b6849.chunk.css.map": "/DiscoverMovies/static/css/main.f21b6849.chunk.css.map",
+    "static/js/2.f8a834b4.chunk.js.LICENSE.txt": "/DiscoverMovies/static/js/2.f8a834b4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15afa6db.js",
+    "static/js/2.f8a834b4.chunk.js",
+    "static/css/main.f21b6849.chunk.css",
+    "static/js/main.6f5ce788.chunk.js"
+  ]
+}
