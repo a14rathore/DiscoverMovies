@@ -12,9 +12,10 @@ export default function section1() {
             <Router>
                 <Navbar />
                 <Routes>
+                    <Route exact path="/" element={<Main category={"popularity"} />} />
                     <Route exact path="/popular" element={<Main category={"popularity"} />} />
                     <Route exact path="/Newest" element={<Main category={"newest"} />} />
-                    <Route exact path="/trending" element={<Main category={"trending"}/>} />
+                    <Route exact path="/trending" element={<Main category={"trending"} />} />
                     <Route exact path="/toprated" element={<Main category={"toprated"} />} />
 
                 </Routes>
